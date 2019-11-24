@@ -1,4 +1,4 @@
-# i am learning githhub
+
 # hello 
 # My Name is Rishi Patel
 # i am 19 years old
